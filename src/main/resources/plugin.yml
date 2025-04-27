@@ -1,0 +1,4 @@
+name: FastUI
+version: '1.0-SNAPSHOT'
+main: net.chordzero.fastUI.FastUI
+api-version: '1.21'
